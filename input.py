@@ -1,0 +1,5 @@
+user_input=input("Enter your name: ")
+user_age=int(input("Enter your age: "))
+user_gender=input("enter your gender: ")
+user_mob=int(input("Enter your mobile no.: "))
+print("You entered:",user_input,"\n", user_age,"\n", user_gender,"\n", user_mob)
